@@ -3,7 +3,7 @@ Microsoft Visual Studio Solution File, Format Version 12.00
 # Visual Studio Version 17
 VisualStudioVersion = 17.9.34622.214
 MinimumVisualStudioVersion = 10.0.40219.1
-Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "WinForms_AssinadorDigital_IText5", "WinForms_AssinadorDigital_IText5.csproj", "{A02DD1B7-26F9-4F3B-8772-058746C2B1C9}"
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "AssinadorDigital_IText5", "AssinadorDigital_IText5.csproj", "{A02DD1B7-26F9-4F3B-8772-058746C2B1C9}"
 EndProject
 Global
 	GlobalSection(SolutionConfigurationPlatforms) = preSolution
